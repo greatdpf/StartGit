@@ -40,4 +40,4 @@ git remote add startgit https://github.com/greatdpf/StartGit.git
 // 将本地的 master 提交到远程仓库的 master。
 git push startgit master   git push 别名 要推送的分支
 ```
-
+推送git
